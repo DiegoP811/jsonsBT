@@ -1,5 +1,6 @@
 {
-  "markers": [{
+  "markers": [
+    {
     "idBus": "1",
     "latitude": -34.8833,
     "longitude": -56.1667,
@@ -133,7 +134,7 @@
     "empresaServicio": "Grupo Agencia",
     "horaLlegada": "00:00",
     "horaEstimada": "00:05"
-    },
+    }
   ],
   "respuesta": {
     "status": "OK",
