@@ -107,8 +107,8 @@
     },
     {
     "idBus": "8",
-    "latitude": -34.8933,
-    "longitude": -56.1859,
+    "latitude": -32.3141112,
+    "longitude": -58.0794735,
     "estado": "En viaje",
     "color": "green",
     "empresa": "Agencia Central",
@@ -122,8 +122,8 @@
     },
     {
     "idBus": "9",
-    "latitude": -34.8933,
-    "longitude": -56.1659,
+    "latitude": -32.3140812,
+    "longitude": -58.0794735,
     "estado": "Cargando pasajeros",
     "color": "yellow",
     "empresa": "Sabelín",
